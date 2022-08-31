@@ -1,0 +1,4 @@
+a="estamos aqui"
+print(a)
+a="estamos aqui otra vez"
+print(a)
