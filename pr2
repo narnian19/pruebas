@@ -1,0 +1,2 @@
+a=str("Hola mundo!")
+print(a)
