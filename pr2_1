@@ -1,0 +1,3 @@
+a=str("estamos aqui")
+print(a)
+print("a es una cadena de caracteres")
